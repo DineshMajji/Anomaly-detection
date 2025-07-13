@@ -22,6 +22,6 @@ Given a video clip, classify it into one of the following **14 crime-related cat
 - Shoplifting
 - Stealing
 - Vandalism
-
+our model achieved 83% AUC with temporal attention, which improved its ability to model temporal context.
 
 
